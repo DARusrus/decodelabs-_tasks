@@ -1,0 +1,21 @@
+DecodeLabs Project 3 — Tech Stack Recommender Results
+==================================================
+Input skills: ['python, html, css', 'java', 'deep learning']
+
+Top 3 Recommendations:
+1. Frontend Developer (match: 24.7%)
+2. Data Scientist (match: 18.4%)
+3. Backend Developer (match: 16.9%)
+
+Full ranked list (all job roles, descending score):
+                 job_role  match_score
+       Frontend Developer     0.246843
+           Data Scientist     0.184114
+        Backend Developer     0.168819
+Machine Learning Engineer     0.168819
+     Mobile App Developer     0.110865
+    Cybersecurity Analyst     0.059424
+             Data Analyst     0.053464
+Site Reliability Engineer     0.053110
+          DevOps Engineer     0.000000
+          Cloud Architect     0.000000
